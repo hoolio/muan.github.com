@@ -3,11 +3,11 @@ layout: one_pager
 title: about
 ---
 
-This is Mu-An. I am a <u>designer & developer</u>.
+This is Julio Avalos. I am <u>GitHub's lawyer</u>.
 
-That means I do a lot of things. I code in HAML, SCSS, JavaScript, CoffeeScript, Ruby on Rails, and do Git stuff. 
+That means I do a lot of things. I code in HAML, SCSS, JavaScript, CoffeeScript, Ruby on Rails, and do Git stuff.
 
-I think about doing `git reset` on my room from time to time, but sadly the world's not perfect. 
+I think about doing `git reset` on my room from time to time, but sadly the world's not perfect.
 
 I've formerly worked in <a href='http://copyin.com' id='copyin-about' target='_blank'>Copyin.com</a> and <a href='http://bluefields.com' id='bluefields-about' target='_blank'>Bluefields.com</a> and spent summer 2012 in Mountain View for <a href='http://500.co/' id='bluefields-about' target='_blank'>500 Startups</a>. I co-founded and launched <a href='http://zeczec.com' id='zeczec' target='_blank'>Zeczec</a> in early 2012, a Taiwanese crowdfunding site.
 
